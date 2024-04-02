@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Talia
+I'm Talia and I'm a third-year student at the University of Toronto majoring in statistics and minoring in computer science and political science.
