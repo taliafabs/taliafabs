@@ -6,7 +6,7 @@
 
 I'm Talia and I'm a fourth-year student at the University of Toronto majoring in statistics and minoring in computer science and political science.
 
-- 🔭 I’m currently working on finishing my degree in statistics with minors in computer science & political science and running a half marathon in the next year or so!
+- 🔭 I’m currently working on finishing my degree in statistics with minors in computer science & political science.
 - 🌱 I’m currently learning about probabilistic machine learning, Bayesian statistics, and 
 - 👯 I’m looking to collaborate on research projects about algorithms & democracy, election forecasting, artificial intelligence regulation, or related topics.
 - 🤔 I’m looking for help with applying the skills I've learned in University in the real world/the workforce & finding an early-career job or internship!
